@@ -43,6 +43,7 @@ AI video generation moved from research demos to production workflows between 20
 
 ### Image-to-Video
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [Stable Video Diffusion](https://stability.ai/stable-video) — Stability AI's image-to-video model with hosted API access.
 - [Runway Image-to-Video](https://runwayml.com/) — Gen-4 image-to-video at up to 4K with motion brush and camera path controls.
 - [Kling Image-to-Video](https://klingai.com/) — Image-to-video mode with strong motion adherence and the most generous free credits among premium models.
